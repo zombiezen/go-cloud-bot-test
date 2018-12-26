@@ -1,4 +1,5 @@
 {
+  "require_pull_request_fork_branch": false,
   "issue_title_pattern": "^I want .*$",
   "issue_title_response": "Hey I don't understand. Please tell me what you want in the form \"I want X\" (but change X)."
 }
